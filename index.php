@@ -50,7 +50,7 @@
                     <div class="item active"><img src="img/c1.jpg" alt="Slider 1" />
                     <div class="carousel-caption">
               			<h1 class="font">Bem Vindo!</h1>
- 						<p>O objetivo desse projeto é resolver o desafio dado pela SimplesVet através do processo de seletivo para a vaga estágio PHP.</p>             
+ 						<p class="objetivo">O objetivo desse projeto é resolver o desafio dado pela SimplesVet através do processo de seletivo para a vaga estágio PHP.</p>             
             		</div>
         		</div>
                  
@@ -65,6 +65,12 @@
     		$(document).ready(function(){
 				$('body').css('display', 'none');
 				$('body').fadeIn(3000);
+				$('nav').css('display', 'none');
+				$('nav').fadeIn(4000);
+				$('h1').css('display', 'none');
+				$('h1').fadeIn(5000);
+				$('p').css('display', 'none');
+				$('p').fadeIn(5500);
 			});
     	</script>
     	<script src="bootstrap/js/bootstrap.js"></script>
