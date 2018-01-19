@@ -1,0 +1,87 @@
+body{
+	text-align: center;
+	font-family: 'Chewy', cursive;
+}
+p{
+	font-size: 30px;
+}
+/***Navegação**/
+.navbar-blue{
+	background: #209fc7;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	
+}
+
+.navbar-blue a{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+}
+.navbar-toggle p{
+    padding-top: 3px;
+
+}
+.navbar-header a{
+	font-family: 'Chewy', cursive;
+	font-size: 40px;
+}
+.navbar-header a:hover{
+	color: white;
+
+}
+
+.navbar-toggle{
+	color: white;
+	border: 1px solid white;
+}
+
+/***********/
+.centralizar{
+	text-align: center;	
+}
+
+.page-header{
+	font-family: 'Berkshire Swash', cursive;
+	color: #60b7ff;
+}
+
+.form-horizontal, .table{
+	font-family: 'Comfortaa', cursive;
+	color: #60b7ff;
+
+}
+.font{
+	font-size: 110px;
+	font-family: 'Chewy', cursive;
+	text-shadow: 3px 3px #209fc7;
+}
+
+.carousel-caption{
+	top: 350px;
+	bottom: auto;
+}
+
+.full-screen{
+	width: 100%;
+}
+.slide-pad{
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.form-produto{
+	margin-top: 40px;
+}
+@media screen and (min-width: 992px){
+		.navbar-blue a:hover{
+	color: #209fc7;
+	transform: scale(1.1);
+	transition: 0.3s;
+	}
+	.navbar-header a:hover{
+	color: white;
+	transform: scale(1.1);
+	transition: 0.5s;
+	}
+
+}
+
