@@ -48,15 +48,12 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="item active"><img src="img/c1.jpg" alt="Slider 1" />
-                    <div class="carousel-caption">
-              			<h1 class="font">Bem Vindo!</h1>
- 						<p class="objetivo">O objetivo desse projeto é resolver o desafio dado pela SimplesVet através do processo de seletivo para a vaga estágio PHP.</p>             
-            		</div>
-        		</div>
-                 
+	                    <div class="carousel-caption">
+	              			<h1 class="font">Bem Vindo!</h1>
+	 						<p class="objetivo">O objetivo desse projeto é resolver o desafio dado pela SimplesVet através do processo seletivo para a vaga estágio PHP.</p>             
+	            		</div>
+        			</div>
                 </div>
-                <a class="left carousel-control" href="#meuSlider" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-                <a class="right carousel-control" href="#meuSlider" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
         </section>
 		</div>
