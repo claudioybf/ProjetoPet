@@ -50,7 +50,7 @@
                     <div class="item active"><img src="img/c1.jpg" alt="Slider 1" />
 	                    <div class="carousel-caption">
 	              			<h1 class="font">Bem Vindo!</h1>
-	 						<p class="objetivo">O objetivo desse projeto é resolver o desafio dado pela SimplesVet através do processo seletivo para a vaga estágio PHP.</p>             
+	 						<p class="objetivo">O objetivo desse projeto é resolver o desafio dado pela SimplesVet através do processo seletivo para a vaga de estágio PHP.</p>             
 	            		</div>
         			</div>
                 </div>

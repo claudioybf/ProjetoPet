@@ -87,9 +87,9 @@
     	<script type="text/javascript">
     		$(document).ready(function(){
 				$('body').css('display', 'none');
-				$('body').fadeIn(2000);
-				$('.row').css('display', 'none');
-				$('.row').fadeIn(2200);
+				$('body').fadeIn(1000);
+				$('table').css('display', 'none');
+				$('table').fadeIn(1200);
 			});
     	</script>
     	<script src="../bootstrap/js/bootstrap.js"></script>
